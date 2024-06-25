@@ -15,6 +15,6 @@ and database connections.
 Created an entity relationship diagram to design a new database accounting for all
 requirements provided by Walmart’s pet department.
 
-#My Certificate of completion
+## My Certificate of Completion
 
 https://drive.google.com/file/d/1m256J2oFqgJXYncxS6fxD0q28k6t449R/view?usp=sharing
